@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Jose Castellanos
+- 👀 I’m interested in JAVAEE with Spring Framework, Android native Dev with kotlin ...
+- 🌱 I’m currently learning functional programming with java and c#...
+- 💞️ I’m looking to collaborate in all the projects that I can help...
+
+<!---
+JoseCaste/JoseCaste is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
